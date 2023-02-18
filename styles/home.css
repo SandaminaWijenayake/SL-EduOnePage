@@ -212,7 +212,7 @@ div.absolute {
 .circal {
   width: 400px;
   height: 400px;
-  background-image: url("/images/cir.jpg");
+  background-image: url("../images/cir.jpg");
   background-size: cover;
   border-radius: 50%;
 }
