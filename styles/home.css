@@ -265,7 +265,7 @@ div.absolute {
 }
 
 /* slider */
-#Comments {
+.comment-container {
   display: flex;
   justify-content: center;
   margin-top: 100px;
@@ -309,6 +309,11 @@ div.absolute {
 .grid2 h4,
 p {
   margin: 0;
+}
+
+.grid2 p,
+.grid1 p {
+  color: #595959;
 }
 .panel h3 {
   opacity: 0;
